@@ -1,6 +1,7 @@
 import math
 
 # this function determines whether the number is a prime number
+# This code will be tested automatically by GitHub Actions
 def is_prime(number):
     if number < 2:
         return True
